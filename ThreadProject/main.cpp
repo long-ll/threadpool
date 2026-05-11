@@ -11,7 +11,7 @@ public:
 		:begin_(begin)
 		,end_(end)
 	{}
-	//问题一：怎么设计run函数的返回值，可以表示任意的类型
+	//怎么设计run函数的返回值，可以表示任意的类型
 	//Java Python  Object 是所有其他类类型的基类
 	//C++17 Any 类型
 
