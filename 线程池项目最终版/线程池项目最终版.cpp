@@ -29,6 +29,10 @@ std::vector<number> push_back_data(number a, std::vector<number> all) {
 }
 int main()
 {
+
+	//ThreadPool pool;
+
+
 	ThreadPool pool;
 
 	//pool.setMode(PoolMode::MODE_CACHED);
